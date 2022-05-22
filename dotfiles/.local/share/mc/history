@@ -1,0 +1,14 @@
+[cmdline]
+0=
+
+[Dir Hist New Right Panel]
+0=/home/ch3dd4r
+
+[Dir Hist New Left Panel]
+0=/home/ch3dd4r
+1=/home
+2=/
+3=/sys
+4=/sys/class
+5=/sys/class/backlight
+6=/sys/class/backlight/intel_backlight

@@ -1,0 +1,7 @@
+wired
+nerdfonts
+ufetch-git
+wordgrinder
+betterlockscreen
+yay
+ly

@@ -1,0 +1,83 @@
+// vim:ts=4:sw=4:et
+{
+    // floating_con with 1 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "marks": [],
+    "percent": null,
+    "rect": {
+       "height": 376,
+       "width": 796,
+       "x": 1045,
+       "y": 543
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 8,
+            "floating": "user_on",
+            "geometry": {
+               "height": 600,
+               "width": 800,
+               "x": 0,
+               "y": 0
+            },
+            "marks": [],
+            "name": "Alacritty",
+            "percent": 1,
+            "swallows": [
+               {
+               // "class": "^Alacritty$",
+               // "instance": "^Alacritty$",
+               // "machine": "^artemis$",
+                "title": "^ufetch$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
+{
+    // floating_con with 1 children
+    "border": "pixel",
+    "floating": "auto_off",
+    "layout": "splith",
+    "marks": [],
+    "percent": null,
+    "rect": {
+       "height": 936,
+       "width": 856,
+       "x": 46,
+       "y": 40
+    },
+    "type": "floating_con",
+    "nodes": [
+        {
+            "border": "pixel",
+            "current_border_width": 8,
+            "floating": "user_on",
+            "geometry": {
+               "height": 600,
+               "width": 800,
+               "x": 0,
+               "y": 0
+            },
+            "marks": [],
+            "name": "Alacritty",
+            "percent": 1,
+            "swallows": [
+               {
+               // "class": "^Alacritty$",
+               // "instance": "^Alacritty$",
+               // "machine": "^artemis$",
+                "title": "^System Terminal$"
+               }
+            ],
+            "type": "con"
+        }
+    ]
+}
+
